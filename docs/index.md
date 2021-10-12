@@ -37,3 +37,5 @@
 | Smart UI components |  |  |  |  |  |  |
 | [Notus](https://github.com/creativetimofficial/notus-angular)  | 
 | [Paper Kit 2](https://github.com/creativetimofficial/paper-kit-2-angular)  | 
+| [Argon Design System](https://github.com/creativetimofficial/argon-design-system-angular) |
+| [Blk• Design System](https://github.com/creativetimofficial/blk-design-system-angular) |
