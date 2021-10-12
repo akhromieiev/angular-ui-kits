@@ -35,3 +35,5 @@
 | DevExtreme |  |  |  |  |  |  |
 | ag-Grid |  |  |  |  |  |  |
 | Smart UI components |  |  |  |  |  |  |
+| [Notus](https://github.com/creativetimofficial/notus-angular)  | 
+| [Paper Kit 2](https://github.com/creativetimofficial/paper-kit-2-angular)  | 
