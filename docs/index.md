@@ -1,4 +1,4 @@
-## Table
+## Angular UI Kits
 
 | Name  		| Stars 	| NPM (Total) 	| Creator 	| License 	|
 |-------	|-------	|------------	|---------	|---------	|
