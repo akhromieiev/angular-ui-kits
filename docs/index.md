@@ -4,33 +4,43 @@ You can use the [editor on GitHub](https://github.com/akhromieiev/angular-ui-kit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Table
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akhromieiev/angular-ui-kits/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| Name  		| Stars 	| NPM (Total) 	| Creator 	| License 	|
+|-------	|-------	|------------	|---------	|---------	|
+| [Taiga](https://taiga-ui.dev/) 	|![](	https://img.shields.io/github/stars/TinkoffCreditSystems/taiga-ui)|![](https://badgen.net/npm/dt/@taiga-ui/cdk)|[Tinkoff](https://github.com/TinkoffCreditSystems)|![](https://img.shields.io/github/license/TinkoffCreditSystems/taiga-ui)|
+| MDB5 | |  |  | 
+| Carbon | |  |  | 
+| PrimeNg | |  |  | 
+| Clarity  | |  |  | 
+| Covalent  | |  |  | 
+| DevUI  | |  |  | 
+| Alyle UI  | |  |  | 
+| Jigsaw | |  |  | 
+| Nebular | |  |  | 
+| Onsen UI | |  |  | 
+| TrulyUI  | |  |  | 
+| Now UI Kit   | |  |  | 
+| Angular Material   | |  |  | 
+| NGX Bootstrap  | |  |  | 
+| NG Bootstrap  | |  |  | 
+| ngx-foundation | |  |  | 
+| Kendo UI | |  |  | 
+| Vadddin components | |  |  | 
+| Semantic UI | |  |  | 
+| Material Web Components | |  |  | 
+| Blox Material | |  |  | 
+| ngx-materialize | |  |  | 
+| angular-mdl | |  |  | 
+| Material Design Lite | |  |  | 
+| ng-lightning | |  |  | 
+| Ignite UI | |  |  | 
+| jQWidgets | |  |  | 
+| [Amexio](https://github.com/meta-magic/amexio.github.io) | |  |  | 
+| Wijmo | |  |  | 
+|  DevExtreme | |  |  | 
+|  ag-Grid | |  |  | 
+|  Smart UI components | |  |  | 
 
 ### Support or Contact
 
