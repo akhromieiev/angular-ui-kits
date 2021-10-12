@@ -40,3 +40,4 @@
 | [Argon Design System](https://github.com/creativetimofficial/argon-design-system-angular) |
 | [Blk• Design System](https://github.com/creativetimofficial/blk-design-system-angular) |
 | [Ionic Components](https://ionicframework.com/docs/components) | 
+| [SyncFusion](https://github.com/syncfusion/ej2-angular-ui-components) |
