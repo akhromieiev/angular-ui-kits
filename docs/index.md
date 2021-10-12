@@ -2,7 +2,7 @@
 
 | Name | Created By | Stars | NPM (Total) | NPM (monthly) | Version | License |
 |---|---|---|---|---|---|---|
-| [Taiga](https://taiga-ui.dev/) | ![TinkoffCreditSystems](https://github.com/TinkoffCreditSystems) | ![](https://img.shields.io/github/stars/TinkoffCreditSystems/taiga-ui) | ![](https://badgen.net/npm/dt/@taiga-ui/cdk) | ![](https://badgen.net/npm/dm/@taiga-ui/cdk) | ![](https://badgen.net/npm/v/@taiga-ui/cdk) | ![](https://img.shields.io/github/license/TinkoffCreditSystems/taiga-ui) |
+| [Taiga](https://taiga-ui.dev/) | [TinkoffCreditSystems](https://github.com/TinkoffCreditSystems) | ![](https://img.shields.io/github/stars/TinkoffCreditSystems/taiga-ui) | ![](https://badgen.net/npm/dt/@taiga-ui/cdk) | ![](https://badgen.net/npm/dm/@taiga-ui/cdk) | ![](https://badgen.net/npm/v/@taiga-ui/cdk) | ![](https://img.shields.io/github/license/TinkoffCreditSystems/taiga-ui) |
 | MDB5 |  |  |  |  |  |  |
 | Carbon |  |  |  |  |  |  |
 | PrimeNg |  |  |  |  |  |  |
