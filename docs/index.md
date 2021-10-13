@@ -4,8 +4,8 @@
 |---|---|---|---|---|---|---|
 | [Taiga](https://taiga-ui.dev/) | [TinkoffCreditSystems](https://github.com/TinkoffCreditSystems) | ![](https://img.shields.io/github/stars/TinkoffCreditSystems/taiga-ui) | ![](https://badgen.net/npm/dt/@taiga-ui/cdk) | ![](https://badgen.net/npm/dm/@taiga-ui/cdk) |![](https://badgen.net/npm/v/@taiga-ui/cdk)| ![](https://img.shields.io/github/license/TinkoffCreditSystems/taiga-ui) |
 | [MDB5](https://github.com/mdbootstrap/mdb-ui-kit) | [link]()  | ![](https://img.shields.io/github/stars/mdbootstrap/mdb-angular-ui-kit) | ![](https://badgen.net/npm/dt/mdbootstrap/mdb-angular-ui-kit)|![](https://badgen.net/npm/dm/mdbootstrap/mdb-angular-ui-kit)|![](https://badgen.net/npm/v/mdb-angular-ui-kit)|![](https://img.shields.io/github/license/mdbootstrap/mdb-angular-ui-kit)|
-| Carbon |  |  |  |  |  |  |
-| PrimeNg |  |  |  |  |  |  |
+| [Carbon](https://angular.carbondesignsystem.com) |[IBM](https://github.com/IBM)|![](https://img.shields.io/github/stars/IBM/carbon-components-angular)|![](https://img.shields.io/npm/dt/carbon-components-angular)|![](https://img.shields.io/npm/dm/carbon-components-angular)|![](https://img.shields.io/npm/v/carbon-components-angular)|![](https://img.shields.io/github/license/IBM/carbon-components-angular)|
+| [PrimeNg](https://github.com/primefaces/primeng) |[PrimeFaces](https://github.com/primefaces)|![](https://badgen.net/github/stars/primefaces/primeng)|![](https://badgen.net/npm/dt/primeng)|![](https://badgen.net/npm/dm/primeng)|![](https://badgen.net/npm/v/primeng)|![](https://badgen.net/npm/license/primeng)|
 | Clarity |  |  |  |  |  |  |
 | Covalent |  |  |  |  |  |  |
 | DevUI |  |  |  |  |  |  |
