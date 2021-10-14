@@ -8,36 +8,34 @@
 | [PrimeNg](https://github.com/primefaces/primeng) | [Docs](https://primefaces.org/primeng/showcase/#/setup) | ![](https://badgen.net/github/stars/primefaces/primeng?style=flat&scale=2) | ![](https://badgen.net/npm/dt/primeng?style=flat&scale=2) | ![](https://badgen.net/npm/dm/primeng?style=flat&scale=2) | ![](https://badgen.net/npm/v/primeng?style=flat&scale=2) | ![](https://badgen.net/npm/license/primeng?style=flat&scale=2) |
 | [Clarity](https://github.com/vmware/clarity) | [Docs](https://clarity.design/get-started/developing/angular/) |![](https://badgen.net/github/stars/vmware/clarity?style=flat) | ![](https://badgen.net/npm/dt/@clr/angular?style=flat) | ![](https://badgen.net/npm/dm/@clr/angular?style=flat) | ![](https://badgen.net/npm/v/@clr/angular?style=flat) | ![](https://badgen.net/npm/license/@clr/angular?style=flat) |
 | [Covalent](https://github.com/Teradata/covalent) | Docs | ![](https://badgen.net/github/stars/Teradata/covalent?style=flat&scale=2) | ![](https://badgen.net/npm/dt/Teradata/covalent?style=flat&scale=2) | ![](https://badgen.net/npm/dm/Teradata/covalent?style=flat&scale=2) | ![](https://badgen.net/npm/v/Teradata/covalent?style=flat&scale=2) | ![](https://badgen.net/npm/license/Teradata/covalent?style=flat&scale=2) |
-| DevUI |  |  |  |  |  |  |
-| Alyle UI |  |  |  |  |  |  |
-| Jigsaw |  |  |  |  |  |  |
-| Nebular |  |  |  |  |  |  |
-| Onsen UI |  |  |  |  |  |  |
-| TrulyUI |  |  |  |  |  |  |
-| Now UI Kit |  |  |  |  |  |  |
-| Angular Material |  |  |  |  |  |  |
-| NGX Bootstrap |  |  |  |  |  |  |
-| NG Bootstrap |  |  |  |  |  |  |
-| ngx-foundation |  |  |  |  |  |  |
-| Kendo UI |  |  |  |  |  |  |
-| Vadddin components |  |  |  |  |  |  |
-| Semantic UI |  |  |  |  |  |  |
-| Material Web Components |  |  |  |  |  |  |
-| Blox Material |  |  |  |  |  |  |
-| ngx-materialize |  |  |  |  |  |  |
-| angular-mdl |  |  |  |  |  |  |
-| Material Design Lite |  |  |  |  |  |  |
-| ng-lightning |  |  |  |  |  |  |
-| Ignite UI |  |  |  |  |  |  |
-| jQWidgets |  |  |  |  |  |  |
-| [Amexio](https://github.com/meta-magic/amexio.github.io) |  |  |  |  |  |  |
-| Wijmo |  |  |  |  |  |  |
-| DevExtreme |  |  |  |  |  |  |
-| ag-Grid |  |  |  |  |  |  |
-| Smart UI components |  |  |  |  |  |  |
-| [Notus](https://github.com/creativetimofficial/notus-angular) |
-| [Paper Kit 2](https://github.com/creativetimofficial/paper-kit-2-angular) |
-| [Argon Design System](https://github.com/creativetimofficial/argon-design-system-angular) |
-| [Blk• Design System](https://github.com/creativetimofficial/blk-design-system-angular) |
-| [Ionic Components](https://ionicframework.com/docs/components) |
-| [SyncFusion](https://github.com/syncfusion/ej2-angular-ui-components) |
+| [DevUI](https://github.com/DevCloudFE/ng-devui) | [Docs](https://devui.design/home) |  |  |  |  |  |
+| [Alyle UI](https://github.com/A-l-y-l-e/Alyle-UI) | [Docs](https://alyle.io/getting-started/installation) |  |  |  |  |  |
+| [Jigsaw](https://github.com/rdkmaster/jigsaw) | [Docs](https://jigsaw-zte.gitee.io/latest/) |  |  |  |  |  |
+| [Nebular](https://github.com/akveo/nebular) | [Docs](https://akveo.github.io/nebular/) |  |  |  |  |  |
+| [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Docs](https://onsen.io/v2/guide/#getting-started) |  |  |  |  |  |
+| [TrulyUI](https://github.com/TemainfoSoftware/truly-ui) | [Docs](https://truly-ui.com/) |  |  |  |  |  |
+| [Now UI Kit](https://github.com/creativetimofficial/now-ui-kit) | [Docs](https://www.creative-tim.com/product/now-ui-kit) |  |  |  |  |  |
+| [Angular Material](https://github.com/angular/components) | [Docs](https://material.angular.io/) |  |  |  |  |  |
+| [NGX Bootstrap](https://github.com/valor-software/ngx-bootstrap) | [Docs](https://valor-software.com/ngx-bootstrap/#/) |  |  |  |  |  |
+| [NG Bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) | [Docs](https://ng-bootstrap.github.io/#/home) |  |  |  |  |  |
+| [Ngx-foundation](https://github.com/valor-software/ngx-bootstrap) | [Docs](https://valor-software.com/ngx-bootstrap/#/)  |  |  |  |  |  |
+| [Kendo UI](https://github.com/telerik/kendo-angular) | [Docs](http://www.telerik.com/kendo-angular-ui/) |  |  |  |  |  |
+| [Vadddin components](https://vaadin.com/learn/tutorials/using-web-components-in-angular) | [Docs](https://vaadin.com/components) |  |  |  |  |  |
+| [Semantic UI](https://github.com/semantic-org/semantic-ui) | [Docs](https://edcarroll.github.io/ng2-semantic-ui/#/getting-started) |  |  |  |  |  |
+| [Material Web Components](https://github.com/trimox/angular-mdc-web) | [Docs](https://trimox.github.io/angular-mdc-web/#/angular-mdc-web/home) |  |  |  |  |  |
+| [Blox Material](https://github.com/src-zone/material) | [Docs](https://material.src.zone/guides/gettingstarted) |  |  |  |  |  |
+| [Ngx-materialize](https://github.com/sherweb/ngx-materialize) | [Docs](https://sherweb.github.io/ngx-materialize/home) |  |  |  |  |  |
+| [Angular-MDL](https://github.com/mseemann/angular2-mdl) | [Docs](https://mseemann.io/angular2-mdl/) |  |  |  |  |  |
+| [NG-lightning](https://github.com/ng-lightning/ng-lightning) | [Docs](https://ng-lightning.github.io/ng-lightning/#/) |  |  |  |  |  |
+| [Ignite UI](https://github.com/IgniteUI/igniteui-angular) | [Docs](https://www.infragistics.com/products/ignite-ui-angular) |  |  |  |  |  |
+| [jQWidgets](https://github.com/jqwidgets/jQWidgets) | [Docs](https://www.jqwidgets.com/) |  |  |  |  |  |
+| [Amexio](https://github.com/meta-magic/amexio.github.io) | [Docs](https://github.com/meta-magic/amexio.github.io) |  |  |  |  |  |
+| [DevExtreme](https://github.com/DevExpress/devextreme-angular) | [Docs](https://js.devexpress.com/Documentation/Guide/Angular_Components/DevExtreme_Angular_Components/) |  |  |  |  |  |
+| [Ag-Grid](https://www.npmjs.com/package/ag-grid-community) | [Docs](http://www.ag-grid.com/) |  |  |  |  |  |
+| [Smart UI components](https://www.npmjs.com/package/smart-webcomponents-angular) | [Docs](www.htmlelements.com/) |  |  |  |  |  |
+| [Notus](https://github.com/creativetimofficial/notus-angular) | [Docs](https://www.creative-tim.com/product/notus-angular) | 
+| [Paper Kit 2](https://github.com/creativetimofficial/paper-kit-2-angular) | [Docs](https://www.creative-tim.com/product/paper-kit-2-angular)
+| [Argon Design System](https://github.com/creativetimofficial/argon-design-system-angular) | [Docs](https://demos.creative-tim.com/argon-design-system-angular/documentation/tutorial)
+| [Blk• Design System](https://github.com/creativetimofficial/blk-design-system-angular) | [Docs](https://demos.creative-tim.com/blk-design-system-angular/#/documentation/overview) | 
+| [Ionic Components](https://github.com/ionic-team/ionic-framework) | [Docs](https://ionicframework.com/docs/components)
+| [SyncFusion](https://github.com/syncfusion/ej2-angular-ui-components) | [Docs](https://www.syncfusion.com/angular-ui-components)
