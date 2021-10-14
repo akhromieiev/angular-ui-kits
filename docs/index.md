@@ -1,6 +1,6 @@
 ## Angular UI Kits
 
-| Name | Author | Stars | NPM (Total) | NPM (monthly) | Version | License |
+| Name | Docs | Stars | NPM (Total) | NPM (monthly) | Version | License |
 |---|---|---|---|---|---|---|
 | [Taiga](https://taiga-ui.dev/) | [TinkoffCreditSystems](https://github.com/TinkoffCreditSystems) | ![](https://img.shields.io/github/stars/TinkoffCreditSystems/taiga-ui?style=flat&scale=2) | ![](https://badgen.net/npm/dt/@taiga-ui/cdk?style=flat&scale=2) | ![](https://badgen.net/npm/dm/@taiga-ui/cdk?style=flat&scale=2) |![](https://badgen.net/npm/v/@taiga-ui/cdk?style=flat)| ![](https://img.shields.io/github/license/TinkoffCreditSystems/taiga-ui?style=flat) |
 | [MDB5](https://github.com/mdbootstrap/mdb-ui-kit) | [link]()  | ![](https://img.shields.io/github/stars/mdbootstrap/mdb-angular-ui-kit) | ![](https://badgen.net/npm/dt/mdbootstrap/mdb-angular-ui-kit?style=flat)|![](https://badgen.net/npm/dm/mdbootstrap/mdb-angular-ui-kit?style=flat)|![](https://badgen.net/npm/v/mdb-angular-ui-kit?style=flat)|![](https://img.shields.io/github/license/mdbootstrap/mdb-angular-ui-kit?style=flat)|
